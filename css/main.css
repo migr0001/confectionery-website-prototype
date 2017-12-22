@@ -59,6 +59,12 @@ nav {
   border-radius: 8px;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 a {
   text-decoration: none;
   color: #fff;
@@ -73,6 +79,7 @@ div {
   color: #fff;
   text-align: center;
 }
+
 
 @media only screen and (min-width: 25em) {
 
