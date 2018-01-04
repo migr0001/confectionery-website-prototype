@@ -40,6 +40,19 @@ header {
   display: block;
 }
 
+.placeholder {
+  float: left;
+  max-width: 20%;
+  padding-right: 1em;
+  display: inline-block;
+}
+
+.info {
+  margin: 0;
+  text-align: left;
+  display: inline-block;
+}
+
 section {
   float: left;
 }
